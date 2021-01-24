@@ -14,7 +14,7 @@ I believe this should be a setting in Discord app. Until it is, this extension h
 
 ## Setup
 
-Download ZIP from Releases and unzip locally. Open [Chrome Extensions](chrome://extensions/) and activate `Developer Mode` up right. Choose `Load unpacked` button and point to the folder where you uncpacked the extensions.
+Download ZIP from Releases and unzip locally. Open [Chrome Extensions](chrome://extensions/) and activate `Developer Mode` up right. Choose `Load unpacked` button and point to the folder where you unpacked the extensions.
 
 ## Tech
 
