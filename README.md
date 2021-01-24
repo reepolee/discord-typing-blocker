@@ -4,7 +4,7 @@
 
 Disables sending live typing notification to Discord servers.
 
-https://github.com/reepolee/discord-typing-blocker/blob/main/typing.png
+https://raw.githubusercontent.com/reepolee/discord-typing-blocker/main/typing.png
 
 Many times I start typing just to realize I was jumping at it too soon and clear the input. However, as the notification was sent already to the server, other party is expecting me to finish a response. Which now will never happen and it leads to all kinds of frustrations.
 
