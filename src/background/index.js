@@ -18,7 +18,7 @@ chrome.browserAction.onClicked.addListener(function(tab) {
   chrome.storage.sync.get("state", function(data) {
     currentState = !data.state;
     console.log("Current state:", currentState);
-    chrome.browserAction.setIcon({ path: currentState ? "discord-block.png" : "discord-unblock.png" });
+    chrome.browserAction.setIcon({ path: currentState ? "./discord-block.png" : "./discord-unblock.png" });
     chrome.storage.sync.set({ state: currentState }, function(data) {});
   });
 });

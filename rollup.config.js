@@ -4,10 +4,7 @@ import svelte from "rollup-plugin-svelte";
 import zip from "rollup-plugin-zip";
 import postcss from "rollup-plugin-postcss";
 import { terser } from "rollup-plugin-terser";
-import {
-  chromeExtension,
-  simpleReloader,
-} from "rollup-plugin-chrome-extension";
+import { chromeExtension, simpleReloader } from "rollup-plugin-chrome-extension";
 import { emptyDir } from "rollup-plugin-empty-dir";
 
 const production = !process.env.ROLLUP_WATCH;
