@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "discord-typing-blocker",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A browser extension to hide typing indicator on Discord Web App",
   "keywords": [
     "chrome-extension",

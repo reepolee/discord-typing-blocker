@@ -6,8 +6,11 @@
       "matches": ["https://*/*", "http://*/*"]
     }
   ],
-  "browser_action": { "default_popup": "popup/index.html" },
+  "browser_action": {
+    "default_icon": "discord-block.png"
+  },
   "permissions": [
+    "storage",
     "webRequestBlocking",
     "*://discord.com/api/v8/channels/*"
   ]  
