@@ -18,4 +18,4 @@ Built using [Svelte](https://svelte.dev/).
 
 Based on Kyrell Dixon's [boilerplate](https://github.com/kyrelldixon/svelte-tailwind-extension-boilerplate). Check it out, cool stuff.
 
-Icons by Icons8, (Line Awesome)[https://github.com/icons8/line-awesome] under Good Boy License
+Icons by Icons8, [Line Awesome](https://github.com/icons8/line-awesome) under Good Boy License
